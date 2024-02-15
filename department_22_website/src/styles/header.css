@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+#mainHeader{
+    height: 120px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(195, 192, 189);
+    border-radius: 10px;
+
+}
+.headerLinks{
+    font-family: "Poppins", sans-serif;
+    color: black;
+    margin-top: 50px;
+    margin-left: 3%;
+    flex-direction: row;
+    text-decoration: none;
+}
+#KafLogo{
+    margin-top: 10px;
+    
+}
+#MITITLogo{
+    margin-top: 10px;
+}
